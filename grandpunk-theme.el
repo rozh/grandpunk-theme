@@ -25,9 +25,9 @@
 ;;; Commentary:
 
 ;; Dark color theme for Emacs with intensive colors. The theme
-;; structure has been borrowed from color-theme-sanityinc-solarized
-;; URL: https://github.com/purcell/color-theme-sanityinc-solarized by
-;; Steve Purcell.
+;; structure has been borrowed from grandshell-theme and cyberpunk-theme
+;; URL:https://github.com/steckerhalter/grandshell-theme
+;; URL:https://github.com/n3mo/cyberpunk-theme.el
 
 ;;; Requirements:
 
