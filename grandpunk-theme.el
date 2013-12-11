@@ -202,7 +202,7 @@
    `(highlight ((,class (:inverse-video nil :background ,alt-background))))
    `(gui-element ((,class (:background ,alt-background :foreground ,normal))))
    `(mode-line
-     ((,class (:foreground ,cyan
+     ((,class (:foreground ,malachite
                            :background ,faintest
                            :box (:line-width -1)))))
    `(mode-line-inactive
